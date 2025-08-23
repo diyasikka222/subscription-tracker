@@ -7,7 +7,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cac4a09f-9fee-40d0-8749-461603e795ee" name="Changes" comment="" />
+    <list default="true" id="cac4a09f-9fee-40d0-8749-461603e795ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Middlewares/arcjet.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/arcjet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/subscription.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/env.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/subscription.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/subscription.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/subscription.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/subscription.routes.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +42,7 @@
   "keyToString": {
     "Node.js.env.js.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "js.linters.configure.manually.selectedeslint": "true",
     "last_opened_file_path": "/Users/diyasikka/Documents/Practice/subscription-tracker",
@@ -75,7 +87,8 @@
       <workItem from="1745661216993" duration="89000" />
       <workItem from="1745661337194" duration="20372000" />
       <workItem from="1745932082619" duration="7573000" />
-      <workItem from="1747037137996" duration="10192000" />
+      <workItem from="1747037137996" duration="10435000" />
+      <workItem from="1755930663604" duration="13228000" />
     </task>
     <servers />
   </component>

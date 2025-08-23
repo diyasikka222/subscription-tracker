@@ -8,6 +8,7 @@ import authRouter from './routes/auth.routes.js';
 import subscriptionRouter from './routes/subscription.routes.js';
 import connectToDatabase from "./database/mongodb.js";
 import errorMiddleware from "./Middlewares/error.middleware.js";
+import arcjetMiddleware from "./Middlewares/arcjet.middleware.js";
 
 const app = express();
 
@@ -15,6 +16,7 @@ const app = express();
 app.use(express.json()); //allows data to handle json data sent in requests or API calls
 app.use(express.urlencoded({ extended: false})) //helps to process the form data sent via html forms in simple format
 app.use(cookieParser()); //reads cookies from incoming requests to store user data
+app.use(arcjetMiddleware);
 
 //ROUTES
 app.use('/api/v1/auth', authRouter);
