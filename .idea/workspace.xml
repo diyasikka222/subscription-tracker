@@ -8,13 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cac4a09f-9fee-40d0-8749-461603e795ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/config/upstash.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/workflow.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/workflow.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/nodemailer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/email-template.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/env.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/env.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/subscription.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/subscription.controller.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -89,6 +86,8 @@
       <workItem from="1747037137996" duration="10435000" />
       <workItem from="1755930663604" duration="14803000" />
       <workItem from="1756227185981" duration="6738000" />
+      <workItem from="1756236807358" duration="297000" />
+      <workItem from="1756358538496" duration="2919000" />
     </task>
     <servers />
   </component>
