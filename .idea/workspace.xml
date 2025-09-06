@@ -9,12 +9,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cac4a09f-9fee-40d0-8749-461603e795ee" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/nodemailer.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/nodemailer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/subscription.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/subscription.controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/workflow.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/workflow.controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/send-email.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/send-email.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +85,7 @@
       <workItem from="1756236807358" duration="297000" />
       <workItem from="1756358538496" duration="3251000" />
       <workItem from="1757063271360" duration="5438000" />
-      <workItem from="1757142260465" duration="7503000" />
+      <workItem from="1757142260465" duration="9221000" />
     </task>
     <servers />
   </component>
